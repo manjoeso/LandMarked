@@ -8,6 +8,7 @@ Completed with a group of 4 members having just been exposed to MongoDB, Landmar
 
 
 ## Photos 
+![image](https://user-images.githubusercontent.com/63963324/152225503-d916dfd5-5b9d-4eef-ade1-2525d4c35c22.png)
 ![image](https://user-images.githubusercontent.com/63963324/150466955-c92744a9-ee2a-4f79-93ca-5066bd141ad3.png)
 ![image](https://user-images.githubusercontent.com/63963324/150466452-18666943-ce4a-47b0-9ea4-ed9ca08a222b.png)
 ![image](https://user-images.githubusercontent.com/63963324/150466625-1ddf116c-993e-42f2-b485-1985a81a04fc.png)
