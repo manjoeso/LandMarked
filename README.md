@@ -2,6 +2,8 @@
 
 An online travel journal to track all the great places you visit and all the trips you go on. 
 
+[Live site](https://landmarked.herokuapp.com/)
+
 ## Background
 
 Completed with a group of 4 members having just been exposed to MongoDB, Landmarked was built using a MERN stack in just under 5 days. 
